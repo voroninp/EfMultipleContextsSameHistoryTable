@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35118.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfMultipleContextsSameHistoryTable", "EfMultipleContextsSameHistoryTable.csproj", "{A5D56475-0022-4183-9963-7E65C553ADEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D56475-0022-4183-9963-7E65C553ADEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D56475-0022-4183-9963-7E65C553ADEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D56475-0022-4183-9963-7E65C553ADEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D56475-0022-4183-9963-7E65C553ADEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64FA2476-9286-460B-B5CC-77E21B2C2767}
+	EndGlobalSection
+EndGlobal
